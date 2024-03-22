@@ -52,5 +52,4 @@ public class LoginPage extends LoadableComponent<LoginPage> {
     public String getErrorMessage() {
         return errorMessage.getText();
     }
-
 }
